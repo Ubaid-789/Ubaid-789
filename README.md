@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ubaid-789
-- 👀 I’m interested in ... blockchain development
-- 🌱 I’m currently learning ...Cyfrin Updraft Blockchain Course
+- 👀 I’m interested in ... creating dynamic websites
 - 💞️ I’m looking to collaborate on ...Projects
 - 📫 How to reach me ...ubaidshakil880@gmail.com
 - 😄 Pronouns: ...
